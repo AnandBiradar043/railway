@@ -1,0 +1,121 @@
+Problem Statement: To reserve the seat in the train
+1. For the above problem Capture the requirements of the client and document them, also review it with acceptance criteria.
+2. Identify and Document at least two associate risks for the above case study
+3. Create user stories and draw UML diagram for the above requirements
+4. Write the test suite for the above requirements
+Solution:
+-serach for jira software in web browser
+-click on the link
+-the above page will display
+-login in with your email and your site adress if you don’t have your account in jira the click on get it free and create account
+-click on agree
+-it asks for your project name enter your project name as reservation system click on create
+-the above page will display click on create which is on the top of your window
+-create issue page will display
+-in the project select your project name
+-in the issue type select story
+-write about your project in the summary part
+-in description write the user story
+AS A customer
+I WANT TO reserve a seat in train
+SO THAT I can visit my native [bold the words as a , I want to,so that]
+-the next step is to create the SRS format for your project
+-search for github in browser
+-login to your account if you have your account otherwise create your github account and login
+-create a new repository name it as reservation system and make the repository as public
+-if you want description you can write it is optional
+-then click create repository
+
+-click on create new file
+-name is as SRS format
+-write the above SRS format in the file
+-click on commit new file
+-after commiting the file you can see the three dots click on it
+-click on copy permalink
+-go for your jira project
+-click on the link button in the description
+-paste the link
+-give name as SRS structure
+-now you need to create the uml diagram
+-search for lucid chart in browser
+-create account and login
+-or login with your account
+-click on create new diagram and draw the above diagram using the tools provided there , select the shape you want just drag and drop the shape
+-after completing your drawing save the document
+-you can see the share symbol in the top screen click on it
+-click on link
+-ON the sharable link ,copy the link
+-paste the link in the jira same as you did for the srs format but name it as UML diagram
+-click on create
+-your issue will be created
+CREATING RISK
+-click on apps
+-search for risk
+-click on the above app
+-click on start free trial
+-get back to your project .go for apps
+-you can see the risk register app
+-click on it
+-click on default risk model
+-you will get this page
+-scroll down to edit the risk matrix
+-edit the matrix according to the need of the project
+-you can changes after editing your risk matrixs
+-click save
+-get into youe issue you created previously
+-you can see the above adjusting lines where you can adjust you risk as medium,low
+-if you need to see the matrix click on the Default risk model
+-the above matrix will be displayed
+CREATING TEST CASESES
+-to craete test cases click on projects
+-create project
+-click on bug tracking
+-use template
+-give your project name
+-click on create project
+-select all the check box in the project page as below
+-go for apps
+-explore more apps
+-search for requriement
+-click on start free trail
+-click on get started
+-click on enable
+-click on next
+-select epic for requirement
+-select bug for test case
+-select improvement for test plan
+-select task for test execution
+-click on next
+-select your project add new feature in issue type
+-click on next
+-click on add automatically
+-scroll down and click next
+-click on start adventure
+-click onrerquirement and click create requirement
+-name the requirement as reservation system and click on create
+-go to test plan
+-create tetst plan
+-name the summary as testcase1 description as testcase1 and click on create
+-again click on test case create second test case
+-name it as testcase2 and create testcase
+-likewise create 4 testcases
+-select all four test cases
+-click on create execution
+-give summary as reservation system ,click on create
+-
+
+--get into the test execution tab which is next to test plans
+-you can see your test execution which you created scroll down
+-select the first testcase1 and click edit
+-scroll down select the execution stage[pass , fail , blocked , or other options ]
+-click on next
+-select the second testcase2 and edit it give different options
+-click on create
+-do the same for the all test cases
+-click on create
+-you can see the difference between your test cases -
+-click on reports
+-click on test executions
+-select all in test execution folder
+-click on generate
+-your graph is generated according to your test cases
