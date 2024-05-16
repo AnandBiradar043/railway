@@ -1,0 +1,103 @@
+Problem statement: Library Login form
+1. For the above problem capture the requirements of the client and document them, also review it with acceptance criteria.
+• Open the website “github.com”.
+• Login to your github using your gmail.id.
+• Click on create new repository.
+• Click on create a new file.
+• Enter the file name.
+• Upload the file of Structure of srs.
+• Click on commit on new file.
+• Click on your file.
+• Copy the permalink.
+• Go to your jira account.
+• Click on the issue created.
+• Go to the description, click on the link symbol, paste the link which you have copied
+• Enter the test to display as “Structure of srs”.
+• Click on Save.
+2. Identify and document two associate risk for the above case study .
+• Login to your jira account
+• Click on apps
+• Download the risk register app
+• Go to risk model
+• Edit the impact, probability and level of risks
+• Click on save changes
+• Go to the project modify the risk assessment
+• Click on save
+• Go to risks
+• Click on create a risk register
+• Enter the risk project name
+• Click on create
+• Click on risk matrix
+• The risk matrix will be displayed
+3. Create user stories and draw UML diagram for the above requirement.
+• Go to jira software
+• Click on get it for free.
+Sign in with your google account
+Enter Site name
+• Your site starts to build.
+• Add project details. Like enter your team name or project name.
+• Click on create project.
+• Enter your teammates gmail id
+• Click on done the window appears as below.
+• Click on create.
+• Enter the issue type as story.
+• Enter summary as Library login.
+• Enter the description as
+AS A student
+I WANT TO login for library
+THEN I should get the list of the books available.
+• Click on create.
+• The user story will be created.
+UML diagram
+• Go to lucid chart in google
+• Login to your google account.
+• Click on New > lucid chart> blank diagram.
+• Draw the uml diagram as below.
+• Go to your jira account.
+• Click on the issue created.
+• Go to the description, click on the link symbol.
+• Paste the link which you have copied, Enter test to display as UML diagram.
+4. Write the test suite for the above requirement.
+• Login to your jira account.
+• Click on projects > create project
+• Select Bug tracking.
+• Click on use template.
+• Add Name of the project.
+• Select all in type, status, and assignee as current user.
+• Go to Apps, Download the Requirements & Test management for Jira.
+• Select your project.
+• Click on Enable.
+• Click on next
+• Select Epic in Requirement.
+• Select Bug in Test case.
+• Select Improvement in Test plan.
+• Select Task in Test Execution.
+• Click on Next.
+• Select New feature in Issue type.
+• Click on next.
+• Click on add automatically.
+• Click on next.
+• Click on start Adventure.
+• Click on Create Requirement
+• Enter the Epic name and description.
+• Click on Create.
+• Your Requirement will be created.
+• Go to Test cases.
+• Click on Create Test Case.
+• Enter Summary.
+• Click on create.
+• Your test case will be created.
+• Create 4 Test cases as below.
+• Select all the Test cases.
+• Click on Create Execution.
+• Enter the summary.
+• Click on create.
+• Go to Test Execution.
+• Click on the Issue key.
+• Select each test case and edit the results.
+• Click on save.
+• Do for all the test cases as below.
+• Click on Reports > Test execution.
+• Select all in Test Requirement folder.
+• Click on generate.
+• The Bar graph will be created as below.
