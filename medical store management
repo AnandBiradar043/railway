@@ -1,0 +1,33 @@
+Problem Statements: Medical Store Management
+1. For the above problem capture the requirements of the client and document them, also review with acceptance criteria
+SRS(Software Requirement Specification) Introduction: This project is used mainly for medical stores to maintain the details of the medical store such as stock and account. This medical shop management system is so designed as to ease the workload of medical shop professionals. The main feature includes inventory and stock control, accounting, client management Purpose: The project is used mainly for medical stores to maintain the details of medical store such as stock and account. The medical shop management software is so designed as the ease the workload of medical shop professionals. The main features include inventory and stock control, accounting, client management. Scope & Objective: As this is generic software it can be used by a wide variety of outlets (Retailers and wholesalers) to automate the process of manually maintaining the records related to the subject of maintaining the stock and cash flows. This project is basically updating the manual chemist inventory System to automated inventory system, so that organization can manage their record in the efficient and organized form. This software helps you to track all the products of medical shop moreover it's a medical shop accounting software. Flexible and adaptive software suited to medical shops or stores or pharmacies of any size. User interface: Something through which user communicate with system. There will be two user accepting System Manager: Who will act As Administrator Other Staff: Who will accessing the System User Functional Requirements: 1. The software must allow input of products data from administration and secure access at, and from the data streaming real-time monitoring equipment
+2. The project must request username and password for access to data, only after authentication will allow to the system. 3. The project must require high levels of error correction and input validation 4. The project must allow browsing by the director and staff of CMS to access and update information products and customers, vendors 5. The project must identify the products and customer by a unique numeric identifier derived from a function performed on the customers birth date or product Id. 6. The software must allow full and complete record search queries by Users. 7. The product must allow Customer to view their own concern record allowing changes only to address, phone number, and insurer after initial input. Non-Functional Requirements 1. The software interface must follow design conventions which allow for familiar location of menus, etc. 2. Input error will be returned in red with appropriate message box. 3. More than three attempts at login and failure will produce a red flag to system administrator. 4. Response time should be minimum 5. No of daily system downs should not more than 10 6. System should automatically update after every transaction. Performance Requirements: 1. The Physician software should be able to support at least three simultaneous users. 2. Data should be secured and backed up every quarter hour. 3. System should be operable 24 hours a day and accessible real time.
+2. Identify and document at least two associate risks for the above case study
+Risk1 :
+Problem to maintain record of daily transactions.
+Risk2:
+They have workload so they also have problem in dealing with their customers
+Risk3:
+At the End of the they also have problem in calculating their profit, sales, purchase etc
+3. Create User stories and draw UML diagram for the above requirements
+USER STORY
+AS A Customer
+I WANT TO check the Medicines.
+SO THAT I can order that medicines which I require
+SCENARIO 1
+GIVEN medical store main page
+WHEN options are provided
+THEN customer should select medicines to order.
+ACCEPTANCE CRITERIA FOR SCENARIO 1
+Accepting the above scenario’s criteria that customer needs to be logged in before checking the medicines and then medicine is displayed. And all details will be stored in medical store system.
+USER STORY 2
+AS A admin
+I WANT TO check the medicines in the stock
+SO THAT I can maintain and stock and order which medicines are not in our stock
+SCENARIO 2
+GIVEN medical store login page
+WHEN user id and password are provided
+THEN I can select medicines lists to check the stock of medicines and order the medicines and paid online.
+ACCEPTANCE CRITERIA FOR SCENARIO 2
+Accepting the above scenario’s criteria that admin needs to be logged in before ordering the medicines. System should check the available medicines in the stock.
+4. Write the test suite for the above requirements
