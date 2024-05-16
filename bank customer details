@@ -1,0 +1,85 @@
+Problem Statement: To design a website to view the customer bank details
+1. For the above problem capture the requirements of the client and document them , also review it with acceptance criteria.
+• Open the website “github.com”.
+• Login to your github using your gmail.id.
+• Click on create new repository.
+• Click on create a new file.
+• Enter the file name.
+• Upload the file of Structure of srs.
+• Click on commit on new file or commit changes.
+• Click on your file.
+• Copy Permalink.
+• Go to your jira account.
+• Click on the create issue.
+• Go to the description,
+•
+• click on the link symbol, paste the link which you have copied
+• Click on Save.
+2.Identify and document two associate risk for the above case study .
+• Create new risk project
+• Give the name and fill up other details
+• Edit the risk matrix below according to your project
+• Copy the link of this matrix
+• Go to jira create an issue and add the link in description
+3.Create user stories and draw uml diagram for the above requirement.
+USER STORY
+AS A Customer
+I WANT TO check the Balance in Bank.
+SO THAT I can withdraw / deposit money
+SCENARIO 1
+GIVEN bank username and password in main page
+WHEN both the condition matches
+THEN it has to display the balance in the account.
+ACCEPTANCE CRITERIA FOR SCENARIO 1
+Accepting the above scenario’s criteria that customer needs to be logged in before checking the balance in the account. And all details will be stored in account.
+UML Diagram
+• Go to lucid chart in google
+• Login to your account
+• Draw the uml diagram as above.
+• Go to your jira account.
+• Click on the create issue.
+• Go to the description, paste the link.
+4. write the test suite for the above requirement.
+• Login to your jira account
+• Click on projects > create project
+• Select bug tracking
+• Click on use template and add the name of your project
+• Go to apps ,add requirement and test management for jira
+• Select your project
+• Click on enable
+• Select Epic in Requirement.
+• Select Bug in Test case.
+• Select Improvement in Test plan.
+• Select Task in Test Execution.
+Click on Next
+• Select New feature in Issue type.
+• Click on next.
+• Click on add automatically.
+• Click on next.
+• Click on start Adventure.
+• Click on Create Requirement
+• Enter the Epic name and description.
+• Click on Create.
+• Your Requirement will be created.
+• Go to Test cases.
+• Click on Create Test Case.
+• Enter Summary.
+• Click on create.
+• Your test case will be created.
+• Create 4 Test cases
+• Select all the Test cases.
+• Click on Create Execution.
+• Enter the summary
+• Click on create.
+• Go to Test Execution.
+• Click on the Issue key.
+• Select each test case and edit the results.
+• Click on save.
+• Do for all the test cases as below.
+• Click on Reports > Test execution.
+• Select all in Test Requirement folder.
+Click on generate.
+• The Bar graph will be created as shown above
+• Copy the link
+• Go to your project > create issue
+• Paste that link
